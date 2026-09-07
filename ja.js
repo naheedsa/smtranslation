@@ -1,5 +1,6 @@
 const ja = {
 	general: {
+		more_settings: "その他の設定",
 		home: "ホーム",
 		next: "次",
 		ok: "OK",

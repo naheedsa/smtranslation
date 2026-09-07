@@ -1,5 +1,6 @@
 const fr = {
 	general: {
+		more_settings: "Plus de paramètres",
 		home: "Accueil",
 		next: "prochain",
 		ok: "D'accord",

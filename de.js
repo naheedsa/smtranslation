@@ -1,5 +1,6 @@
 const de = {
 	general: {
+		more_settings: "Weitere Einstellungen",
 		home: "Zuhause",
 		next: "Weiter",
 		ok: "OK",

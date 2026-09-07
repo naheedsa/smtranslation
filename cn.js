@@ -1,5 +1,6 @@
 ﻿﻿const cn = {
 	general: {
+		more_settings: "更多设置",
 		home: "主页",
 		next: "下一项",
 		ok: "确认",
