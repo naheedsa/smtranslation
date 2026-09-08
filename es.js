@@ -1,5 +1,6 @@
 const es = {
 	general: {
+		more_settings: "Más configuración",
 		home: "Inicio",
 		next: "Siguiente",
 		ok: "OK",
