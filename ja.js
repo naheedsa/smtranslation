@@ -1540,8 +1540,6 @@ const ja = {
 			auto_park_everyday: "毎日",
 			park_at: "に駐車してください",
 			reset_options: "オプションのリセット",
-			min_alt: "最小 Alt",
-			max_alt: "最大 Alt",
 			enable_alt_limits: "Alt 制限を有効にする",
 			enable_ha_limits: "HA 制限を有効にする",
 			max_ha: "最大 HA (時間)",

@@ -1489,8 +1489,6 @@
 			auto_park_everyday: "每天",
 			park_at: "停放于",
 			reset_options: "重置选项",
-			min_alt: "最小高度",
-			max_alt: "最大高度",
 			enable_alt_limits: "启用高度限制",
 			enable_ha_limits: "启用时角限制",
 			max_ha: "最大时角（时）",

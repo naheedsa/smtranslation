@@ -1572,8 +1572,6 @@ const it = {
 			auto_park_everyday: "Ogni giorno",
 			park_at: "Parcheggia a",
 			reset_options: "Opzioni di ripristino",
-			min_alt: "Min. Alt",
-			max_alt: "Max. Alt",
 			enable_alt_limits: "Abilita limiti Alt",
 			enable_ha_limits: "Abilita limiti HA",
 			max_ha: "Max. HA (ore)",

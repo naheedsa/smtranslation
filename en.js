@@ -1570,8 +1570,6 @@ const en = {
 			auto_park_everyday: "Every day",
 			park_at: "Park at",
 			reset_options: "Reset Options",
-			min_alt: "Min. Alt",
-			max_alt: "Max. Alt",
 			enable_alt_limits: "Enable Alt Limits",
 			enable_ha_limits: "Enable HA Limits",
 			max_ha: "Max. HA (hours)",

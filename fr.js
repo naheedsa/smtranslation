@@ -1562,8 +1562,6 @@ const fr = {
 			auto_park_everyday: "Tous les jours",
 			park_at: "Parquer à",
 			reset_options: "Réinitialiser les options",
-			min_alt: "Alt min",
-			max_alt: "Alt max",
 			enable_alt_limits: "Activer les limites Alt",
 			enable_ha_limits: "Activer les limites HA",
 			max_ha: "HA max (heures)",
